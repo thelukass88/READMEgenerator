@@ -1,13 +1,13 @@
 const fs = require("fs");
 const path = require('path');
 const inquirer = require("inquirer");
-const generateMarkdown = require("./utils/generateMarkdown");
+const generateMarkdown = require("./starter/utils/generateMarkdown");
 
 // array of questions for user
 const questions = [
     {
         type: "input",
-        name: "Title",
+        name: "title",
         message: "What is the title of your project?",
     },
     {
