@@ -11,10 +11,6 @@ const questions = [
         message: "What is the title of your project?",
     },
     {
-        type: "table"
-
-    },
-    {
         type: "input",
         name: "description",
         message: "Write a brief description of your project: "
@@ -73,11 +69,15 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
-    
+    return fs.writeFileSync(path.join(process.cwd(), fileName), data);
 }
 
 // function to initialize program
 function init() {
+    inquirer.prompt(questions).then((responses) => {
+        console.log("Generating README.md File...");
+        writeToFile("./starter/README.md", generateMarkdown({ ...responses}));
+    })
 
 }
 
