@@ -1,6 +1,7 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
+${licenceBadge(data.licence)}
 ## Description
 ${data.description}
 ## Table of Contents
@@ -33,8 +34,9 @@ ${data.email}
 module.exports = generateMarkdown;
 
 //Creating a function for licence badges
-function licenceBadges(licence) {
+function licenceBadge(licence) {
   if (licence !== "none") {
-    return `![Github licence](https://img.shields.io/badge/your_licence:${licence}-blue)`
+    return `![Github licence](https://img.shields.io/badge/your_licence:${licence}-blue.svg)`
   }
+  return "";
 }

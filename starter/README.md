@@ -1,6 +1,7 @@
-# READ
+# R
+![Github licence](https://img.shields.io/badge/your_licence:MIT-blue.svg)
 ## Description
-READ
+R
 ## Table of Contents
 * [Installation](#installation)
 * [Useage](#useage)
@@ -9,19 +10,19 @@ READ
 * [Testing](#tests)
 * [Questions](#questions)
 ## Installation
-READ
+R
 ## Useage
-undefined
+R
 ## Licence
 MIT
 ## Contributing
-RED
+R
 ## Tests
-READ
+R
 ## Questions
-READ
+R
 ## Username
-READ
+R
 ## Email
-READ
+R
 
