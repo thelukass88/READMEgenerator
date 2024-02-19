@@ -12,6 +12,10 @@ Quick generator for README files using the Inquirer (8.0) from NPM. This task wa
 ## Installation
 N/A
 ## Useage
+
+https://github.com/thelukass88/READMEgenerator/assets/128861516/5eb875aa-43a1-4f83-a693-70d54c21d753
+
+
 It can be used by following the prompt questions which will fill out the relevant sections in the README file. You can also use the links in the table of contents to move to a section quickly, as well as click the link on the GitHub username below to be taken to the repository. 
 ## Licence
 Your application is licenced under: MIT
