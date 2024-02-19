@@ -23,7 +23,7 @@ const questions = [
     {
         type: "input",
         name: "useage",
-        message: "What is this project usage for?"
+        message: "How can your application be used?"
     },
     {
         type: "list",
@@ -42,7 +42,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "contributors",
+        name: "contributions",
         message: "Who are the contributors of this projects?"
     },
     {

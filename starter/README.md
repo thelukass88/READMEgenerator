@@ -1,7 +1,7 @@
-# r
+# README Generator
 ![Github licence](https://img.shields.io/badge/your_licence:-MIT-blue.svg)
 ## Description
-r
+Quick generator for README files. 
 ## Table of Contents
 * [Installation](#installation)
 * [Useage](#useage)
@@ -10,17 +10,17 @@ r
 * [Testing](#tests)
 * [Questions](#questions)
 ## Installation
-r
+N/A
 ## Useage
-r
+It can be used by following the prompt questions which will fill out the relevant sections in the README file.
 ## Licence
 Your application is licenced under: MIT
-## Contributing
-rr
+## Contributions
+N/A
 ## Tests
-r
+Yes
 ## Questions
-If you would like to contact me, please
-visit: [github/r](https://github.com/r),<br>
-email: r
+If you would like to contact me<br>
+visit: [github/thelukass88](https://github.com/thelukass88)<br>
+email: l.holliday88@hotmail.com
 

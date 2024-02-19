@@ -17,8 +17,8 @@ ${data.installation}
 ${data.useage}
 ## Licence
 Your application is licenced under: ${data.licence}
-## Contributing
-${data.contributors}
+## Contributions
+${data.contributions}
 ## Tests
 ${data.tests}
 ## Questions
