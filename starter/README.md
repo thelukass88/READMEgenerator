@@ -1,6 +1,6 @@
-# README Gen
+# README
 ## Description
-Generate README Files
+READNE
 ## Table of Contents
 * [Installation](#installation)
 * [Useage](#useage)
@@ -9,19 +9,19 @@ Generate README Files
 * [Testing](#tests)
 * [Questions](#questions)
 ## Installation
-Install
+READ
 ## Useage
 undefined
 ## Licence
 undefined
 ## Contributing
-ME
+READ
 ## Tests
-Noi
+READ
 ## Questions
-Contact me
+READ
 ## Username
-l
+READ
 ## Email
-l
+READ
 
