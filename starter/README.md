@@ -1,7 +1,7 @@
-# R
-![Github licence](https://img.shields.io/badge/your_licence:MIT-blue.svg)
+# r
+![Github licence](https://img.shields.io/badge/your_licence:-MIT-blue.svg)
 ## Description
-R
+r
 ## Table of Contents
 * [Installation](#installation)
 * [Useage](#useage)
@@ -10,19 +10,17 @@ R
 * [Testing](#tests)
 * [Questions](#questions)
 ## Installation
-R
+r
 ## Useage
-R
+r
 ## Licence
-MIT
+Your application is licenced under: MIT
 ## Contributing
-R
+rr
 ## Tests
-R
+r
 ## Questions
-R
-## Username
-R
-## Email
-R
+If you would like to contact me, please
+visit: [github/r](https://github.com/r),<br>
+email: r
 

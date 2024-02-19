@@ -16,27 +16,32 @@ ${data.installation}
 ## Useage
 ${data.useage}
 ## Licence
-${data.licence}
+Your application is licenced under: ${data.licence}
 ## Contributing
 ${data.contributors}
 ## Tests
 ${data.tests}
 ## Questions
-${data.questions}
-## Username
-${data.username}
-## Email
-${data.email}
+If you would like to contact me<br>
+visit: [github/${data.username}](https://github.com/${data.username})<br>
+email: ${data.email}
 
 `;
 }
 
 module.exports = generateMarkdown;
 
-//Creating a function for licence badges
+//Function for licence badges
 function licenceBadge(licence) {
   if (licence !== "none") {
     return `![Github licence](https://img.shields.io/badge/your_licence:-${licence}-blue.svg)`
+  }
+  return "";
+}
+//Function for Licence link
+function licenceLink(licence) {
+  if (licence !== "none") {
+    return `\n* [Licence](#licence)\n`;
   }
   return "";
 }
