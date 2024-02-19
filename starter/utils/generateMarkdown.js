@@ -31,3 +31,10 @@ ${data.email}
 }
 
 module.exports = generateMarkdown;
+
+//Creating a function for licence badges
+function licenceBadges(licence) {
+  if (licence !== "none") {
+    return `![Github licence](https://img.shields.io/github/license/<Github-Username>/<Repository>)`
+  }
+}

@@ -1,27 +1,27 @@
 # README Gen
 ## Description
-daFf
+Generate README Files
 ## Table of Contents
 * [Installation](#installation)
 * [Useage](#useage)
 * [Licence](#licence)
-* [Contributions](#contributing)
+* [Contributions](#contributors)
 * [Testing](#tests)
 * [Questions](#questions)
 ## Installation
-fdsF
+Install
 ## Useage
 undefined
 ## Licence
 undefined
 ## Contributing
-df
+ME
 ## Tests
-f
+Noi
 ## Questions
-F
+Contact me
 ## Username
-fdg
+l
 ## Email
-dg
+l
 
