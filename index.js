@@ -37,11 +37,12 @@ const questions = [
             "MIT",
             "Mozilla",
             "Open"
-        ]
+        ],
+        default: "MIT"
     },
     {
         type: "input",
-        name: "contributing",
+        name: "contributors",
         message: "Who are the contributors of this projects?"
     },
     {

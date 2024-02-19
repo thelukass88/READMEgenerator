@@ -7,7 +7,7 @@ ${data.description}
 * [Installation](#installation)
 * [Useage](#useage)
 * [Licence](#licence)
-* [Contributions](#contributing)
+* [Contributions](#contributors)
 * [Testing](#tests)
 * [Questions](#questions)
 ## Installation
@@ -17,7 +17,7 @@ ${data.useage}
 ## Licence
 ${data.licence}
 ## Contributing
-${data.contributing}
+${data.contributors}
 ## Tests
 ${data.tests}
 ## Questions
