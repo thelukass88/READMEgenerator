@@ -35,6 +35,6 @@ module.exports = generateMarkdown;
 //Creating a function for licence badges
 function licenceBadges(licence) {
   if (licence !== "none") {
-    return `![Github licence](https://img.shields.io/badge/${licence} - blue)`
+    return `![Github licence](https://img.shields.io/badge/your_licence:${licence}-blue)`
   }
 }

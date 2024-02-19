@@ -1,6 +1,6 @@
-# README
+# READ
 ## Description
-READNE
+READ
 ## Table of Contents
 * [Installation](#installation)
 * [Useage](#useage)
@@ -13,9 +13,9 @@ READ
 ## Useage
 undefined
 ## Licence
-undefined
+MIT
 ## Contributing
-READ
+RED
 ## Tests
 READ
 ## Questions
